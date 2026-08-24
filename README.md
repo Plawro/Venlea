@@ -94,7 +94,7 @@ In the Venlea app, open **Profile → Settings → Server address** and enter yo
 
 Venlea is free and open source. If you find Venlea useful and want to help support development and future features:
 
-- ☕ **[Donate via PayPal](https://paypal.me)** (or use the in-app PayPal donate button in Settings)
+- ☕ **[Donate via PayPal](https://paypal.me/Plawro)** (or use the in-app PayPal donate button in Settings)
 
 ---
 
