@@ -1,0 +1,5 @@
+{
+  "appId": "com.venlea.app",
+  "appName": "Venlea",
+  "webDir": "frontend/build"
+}
