@@ -6,6 +6,10 @@ Venlea is a modern, privacy-first personal productivity and mindful journaling a
 
 ---
 
+## Venlea is Discontinued. There are few issues that have not been resolved. If you want to fork this project or just use this code, you 100% can.
+
+---
+
 ## ✨ Key Features
 
 - 🔒 **100% De-Googled & Privacy First**
